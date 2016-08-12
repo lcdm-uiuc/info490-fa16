@@ -55,7 +55,7 @@ and concepts behind them, but you are responsible for your own answers.
 Please do not post code in the forums! Finally, on assessments and
 quizzes, your answers must of course be your own. For further info, see
 the [Student Code, Part 4. Academic
-Integrity](http://www.admin.illinois.edu/policy/code/article_1/a1_1-401.html).
+Integrity](http://studentcode.illinois.edu/article1_part4_1-401.html).
 
 ## Communication ##
 
