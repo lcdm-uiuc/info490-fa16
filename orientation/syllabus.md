@@ -85,8 +85,8 @@ completely public, real-time communication channel that you can also use
 to ask questions.
 
 
-[qaf]: https://learn.illinois.edu/mod/forum/view.php?id=
-[af]: https://learn.illinois.edu/mod/forum/view.php?id=
+[qaf]: https://learn.illinois.edu/mod/forum/view.php?id=1571626
+[af]: https://learn.illinois.edu/mod/forum/view.php?id=1571623
 [gr]: https://gitter.im/UI-DataScience/info490-fa16
 
 ## Course Outline ##
@@ -124,6 +124,7 @@ pace and material to benefit the majority of enrolled students.
 
 ## Weekly Format ##
 ## 
+
 Each week will provide learning objectives and an outline of the
 activities for that week with a list of all deadlines and corresponding
 point values for assignments.
@@ -134,10 +135,10 @@ Each week there will be at least one instructor created video that will
 offer a broader context for the new week, explain key concepts, and
 demonstrate important tasks. To view the instructor videos, you will
 need to login to the Illinois Mediaspace (links are embedded in the
-relevant weekly overview). You will be given twenty points for viewing
-each weekly instructor overview video. In case you are wondering,
-Illinois Mediaspace tracks the viewing of course videos, so we know not
-only if you load a video, but how much of the video you actually watched.
+relevant weekly overview). You will not be graded for watching the videos; 
+hopwever, we strongly encourage you to watch them as they contain 
+information and demonstrations that will prove helpful as you work through each 
+week's lessons.
 
 ### Readings ###
 
@@ -237,11 +238,13 @@ are no exams in this course.
 |Orientation Quiz|70|1|70|
 |Lesson Assessments|60|14 (Week 15 is only 20 points)|860|
 |Weekly Quizzes|70|14 (No quiz in Week 15)|980|
-|Weekly Overview Videos|20|16 (including the Orientation Week Video)|320|
-|Assignments (Weeks 2-14)|150|13 |1950|
-|***Total***|||***4240***|
+|Assignments (Weeks 2-14)|150|11 |1650|
+|***Total***|||***3680***|
 
-Unlike past courses, we do not plan on dropping any weekly scores.
+Unlike past courses, we do not plan on dropping any weekly scores. We will 
+however, drop your two lowest assignment scores, but only if you performed 
+peer assessment.
+
 
 ### Grading Scale ###
 

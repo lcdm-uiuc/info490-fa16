@@ -1,14 +1,13 @@
 # Week 1 Lesson 3 #
-## The Unix Shell/JupyterHub ##
+## The Unix File System ##
 
 In this lesson you will begin working at the Unix prompt in order to
-understand the bash shell, the Unix file system, and how to work with
+interact with the Unix file system and work with
 files and processes.
 
 ### Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand how to work at the Unix command prompt.
 - Understand the basic Unix file system.
 - Be able to create, copy, move, and delete files and directories.
 
@@ -18,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ###
 
-- Read chapters 1-4 from the free book [The Linux Command Line
+- Read chapters 3-4 from the free book [The Linux Command Line
 (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp), Second
 Internet Edition, by William E. Shotts, Jr. 
 - Follow along by entering the commands as directed into a terminal

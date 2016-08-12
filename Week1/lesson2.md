@@ -1,43 +1,32 @@
 # Week 1 Lesson 2 #
-## Virtualization and Docker ##
+## The Unix Shell ##
 
-In this lesson you will learn about virtualization, and specifically the
-Docker technology.  Note that you may have already completed some of
-these tasks during the Orientation Week.
+In this lesson you will begin working at the Unix prompt in order to
+understand the bash shell, which is one of the more commonly used 
+interfaces to Unix systems.
 
-###Objectives ###
-
+### Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the concept of virtualization
-- Install Docker
-- Install and run the course Docker container
+- Understand how to work at the Unix command prompt.
 
-### Time Estimate ###
+### Time Estimate###
 
 Approximately 2 hours.
 
-### Readings ####
-- Read the [Wikipedia article on Virtualization](https://en.wikipedia.org/wiki/Virtualization).
-- Follow the _Get Started with Docker_ documentation for your particular computer type:
-  - [Mac OSX](http://docs.docker.com/mac/started/)
-  - [Windows](http://docs.docker.com/windows/started/)
-  - [Linux](http://docs.docker.com/linux/started/)
-  
-  You can stop once you have completed _Find and run the whalesay image_.
+### Readings ###
 
-- Explore the course notes on _Working with Docker_ for your particular computer type:
-  - [Mac OS X](Working-with-Docker-OSX.md)
-  - [Windows](Working-with-Docker-Win.md)
-  - Linux: Everything in the [Mac OS X](Working-with-Docker-OSX.md) documentation should work
-    in Linux.
-  
-#### *Optional Additional Readings*####
-
-- [An introduction to the
-Containers](http://googlecloudplatform.blogspot.com/2015/01/in-coming-
-weeks-we-will-be-publishing.html) from the Google Cloud Computing Blog.
-- Complete any remaining steps in the _Get Started with Docker_ documentation.
+- Read chapters 1-2 from the free book [The Linux Command Line
+(PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp), Second
+Internet Edition, by William E. Shotts, Jr. 
+- Follow along by entering the commands as directed into a terminal
+window on the course JupyterHub server.
+- Explore the INFO490 Course [Introduction to Unix](notebooks/introduction2unix.ipynb) Notebook
+ 
+#### *Optional Additional Readings* ####
+- [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
+- [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+- [Introduction to Linux: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
 
 ### Assessment ###
 
