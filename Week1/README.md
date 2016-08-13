@@ -17,7 +17,7 @@
 |**[Week 1 Lesson 1: Intro to Data Science](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 1 Lesson 2: Virtualization/Docker](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 1 Lesson 3: The Unix Shell/Jupyter Notebook Server](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week 1 Quiz**| 30 Minutes | Friday | 40|
+|**[Week 1 Quiz](https://learn.illinois.edu/mod/quiz/view.php?id=1629386)**| 30 Minutes | Friday | 40|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
