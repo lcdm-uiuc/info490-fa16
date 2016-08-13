@@ -28,7 +28,7 @@ For both of these two readings, you should stop when you reach the _assignment/E
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095467).
+When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1629389).
 
 
 
