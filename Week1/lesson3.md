@@ -33,4 +33,4 @@ window within your Docker container.
 
 When you have completed and worked through the above readings, please
 take the [Week 1 Lesson 3
-Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095470).
+Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1629393).
