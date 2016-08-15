@@ -113,7 +113,7 @@ pace and material to benefit the majority of enrolled students.
 |*Week 5*| Networking and Files |
 |*Week 6*| Text Processing |
 |*Week 7*| Visualization |
-|*Week 8*| Numpy and Pandas |
+|*Week 8*| Advanced Data Processing |
 |*Week 9*| Data Formats |
 |*Week 10*| Basic Statistics |
 |*Week 11*| Functional Programming |
