@@ -8,6 +8,7 @@ interfaces to Unix systems.
 ### Objectives ###
 By the end of this lesson, you will be able to:
 
+- Understand the basic concepts behind the Unix operating system.
 - Understand how to work at the Unix command prompt.
 
 ### Time Estimate###
