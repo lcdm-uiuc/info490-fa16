@@ -6,7 +6,7 @@
 #####By the end of this lesson, you should be able to:######
 
 - Know the basics about the origin of, and the disciplines that contribute to Data Science.
-- Understand the concept of virtualization and be able to run the course Docker container
+- Understand how to work in a Unix Shell.
 - Understand the basic Unix file system and how to create, copy, move, and delete files and directories.
 
 ### Activities and Assignments ###
@@ -15,8 +15,8 @@
 |:------| -----|-------|----------:|
 |**[Week 1 Introduction Video](https://mediaspace.illinois.edu/media/t/0_j4lwy6kr/33195071)** | 10 Minutes | Tuesday |20|
 |**[Week 1 Lesson 1: Intro to Data Science](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 1 Lesson 2: Virtualization/Docker](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 1 Lesson 3: The Unix Shell/Jupyter Notebook Server](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 1 Lesson 2: The Unix Shell](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 1 Lesson 3: The Unix File System](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 1 Quiz](https://learn.illinois.edu/mod/quiz/view.php?id=1629386)**| 30 Minutes | Friday | 40|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
