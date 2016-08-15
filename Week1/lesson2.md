@@ -33,7 +33,9 @@ window on the course JupyterHub server.
 
 When you have completed and worked through the above readings, please
 take the [Week 1 Lesson 2
-Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1629390).
+Assessment][QL].
+
+[QL]:https://learn.illinois.edu/mod/quiz/view.php?id=1629390
 
 
 
