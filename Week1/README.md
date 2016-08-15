@@ -17,10 +17,12 @@
 |**[Week 1 Lesson 1: Intro to Data Science](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 1 Lesson 2: The Unix Shell](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 1 Lesson 3: The Unix File System](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**[Week 1 Quiz](https://learn.illinois.edu/mod/quiz/view.php?id=1629386)**| 30 Minutes | Friday | 40|
+|**[Week 1 Quiz][W1Q]**| 30 Minutes | Friday | 40|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
 
 Photo Credit: [Unix License Plate](https://commons.wikimedia.org/wiki/File%3AUNIX-Licence-Plate.JPG) By KHanger, 10 June 2009. Wikipedia. 30 July 2015.
+
+[W1Q]: https://learn.illinois.edu/mod/quiz/view.php?id=1629386
