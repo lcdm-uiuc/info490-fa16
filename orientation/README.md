@@ -64,5 +64,5 @@ One way of doing this is by helping to address the questions that your
 peers pose. By engaging with each other, we'll all learn better.
 
 -----
-[OV]: https://mediaspace.illinois.edu/media/Orientation+Video/1_4wrksitx
+[OV]: https://mediaspace.illinois.edu/media/Orientation+Week/1_kmcn3542/48757791
 [OQ]: https://learn.illinois.edu/mod/quiz/view.php?id=1571620
