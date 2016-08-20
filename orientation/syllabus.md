@@ -98,6 +98,7 @@ You can also communicate via the course forums and email.
 | Name | Data | Time | Location | 
 | --- | --- | --- | --- | 
 | Brunner | Wednesday | 1:30 pm - 2:30 pm | 226 Astronomy |
+| Mehrmann | Tuesday | 6:00 pm - 7:00 pm | Virtual |
 
 ## Course Outline ##
 
