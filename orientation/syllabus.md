@@ -97,7 +97,7 @@ You can also communicate via the course forums and email.
 
 | Name | Data | Time | Location | 
 | --- | --- | --- | --- | 
-| Brunner | Thursday | 1:30 pm - 2:30 pm | 226 Astronomy |
+| Brunner | Wednesday | 1:30 pm - 2:30 pm | 226 Astronomy |
 
 ## Course Outline ##
 
