@@ -200,8 +200,8 @@ if you miss an assignment submission. Peer review of an assignment must
 be completed by 6:00 PM Central on Saturday of the following week (i.e.,
 you submit your assignment on a Monday and you must peer assess other
 students assignments by the following Saturday). You will be assigned
-assignments to grade approximately one hour after the late assignment
-deadline, thus around 1:00 pm Tuesday afternoon of each week.
+assignments to grade
+around 1:00 pm Tuesday afternoon of each week.
 
 | **Item** | **Grade** | 
 |----|----| 
