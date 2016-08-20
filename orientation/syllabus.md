@@ -89,6 +89,16 @@ to ask questions.
 [af]: https://learn.illinois.edu/mod/forum/view.php?id=1571623
 [gr]: https://gitter.im/UI-DataScience/info490-fa16
 
+
+## Office Hours ##
+
+Scheduled office hours are listed below for all instructors. 
+You can also communicate via the course forums and email.
+
+| Name | Data | Time | Location | 
+| --- | --- | --- | --- | 
+| Brunner | Thursday | 1:30 pm - 2:30 pm | 226 Astronomy |
+
 ## Course Outline ##
 
 Note: The following list of topics is tentative. We build the course
