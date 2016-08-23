@@ -13,7 +13,7 @@
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week X Introduction Video][wv]** | 10 Minutes | Tuesday |NA|
+|**[Week X Introduction Video][wv]** | 10 Minutes | Tuesday |N/A|
 |**[Week X Lesson 1: ](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week X Lesson 2: ](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week X Lesson 3: ](lesson3.md)**| 2 Hours | Thursday| 20 |
@@ -23,3 +23,4 @@
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/
+[wq]: https://learn.illinois.edu/
