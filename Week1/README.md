@@ -13,7 +13,7 @@
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 1 Introduction Video][wv]** | 10 Minutes | Tuesday |20|
+|**[Week 1 Introduction Video][wv]** | 10 Minutes | Tuesday |N/A|
 |**[Week 1 Lesson 1: Intro to Data Science](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 1 Lesson 2: The Unix Shell](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 1 Lesson 3: The Unix File System](lesson3.md)**| 2 Hours | Thursday| 20 |
