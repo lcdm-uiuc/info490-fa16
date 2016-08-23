@@ -17,7 +17,7 @@
 |**[Week X Lesson 1: ](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week X Lesson 2: ](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week X Lesson 3: ](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week X Quiz**| 30 Minutes | Friday | 40|
+|**Week X Quiz**| 30 Minutes | Friday | 70|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
