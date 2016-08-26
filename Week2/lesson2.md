@@ -32,4 +32,6 @@ Approximately 2 hours.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment]().
+When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment][WA].
+
+[WA]: https://learn.illinois.edu/mod/quiz/view.php?id=1677269
