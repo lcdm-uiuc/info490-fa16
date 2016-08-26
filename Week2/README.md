@@ -35,7 +35,7 @@ manipulations of Python variables.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wq]: 
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1674930
 [wv]: 
 [wa]: 
 
