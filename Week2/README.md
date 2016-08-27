@@ -37,6 +37,6 @@ manipulations of Python variables.
 ----------
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1674930
 [wv]: https://mediaspace.illinois.edu/media/Week+Two/1_oytnnjt6/48757791
-[wa]: Week2/assignments/Readme.md
+[wa]: assignments/Readme.md
 
 Photo Credit: Command Line Screen Shot by Jim Hoskins. 27 Sept. 2012. http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line. 31 July 2015
