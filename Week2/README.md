@@ -24,7 +24,7 @@ manipulations of Python variables.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 2 Introduction Video][wv]** | 10 Minutes | Tuesday |20|
+|**[Week 2 Introduction Video][wv]** | 10 Minutes | Tuesday |N/A|
 |**[Week 2 Lesson 1: Basic Unix Concepts](lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 2 Lesson 2: Introduction to iPython](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 2 Lesson 3: Introduction to Python](lesson3.md)**| 2 Hours | Thursday| 20 |
