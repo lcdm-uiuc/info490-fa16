@@ -13,6 +13,8 @@
 3. Andrew Mehrmann (MS candidate Statistics)
 4. Samantha Thrush (Ph.D. candidate Astronomy)
 
+For contact information see the course [moodle site](https://learn.illinois.edu/course/view.php?id=17566)
+
 This class is an asynchronous, online course. This course will build a practical foundation for data science
 by teaching students basic tools and techniques that can scale to large computational systems and massive data sets.
 
