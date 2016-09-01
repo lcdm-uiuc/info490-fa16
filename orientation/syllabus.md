@@ -99,7 +99,7 @@ You can also communicate via the course forums and email.
 | --- | --- | --- | --- | 
 | Brunner | Wednesday | 1:30 pm - 2:30 pm | 226 Astronomy |
 | Lu | Friday | 10:30 am - 11:30 am | 234 Astronomy |
-| Mehrmann | Tuesday | 6:00 pm - 7:00 pm | Virtual |
+| Mehrmann | Tuesday | 6:00 pm - 7:00 pm | [Virtual](https://learn.illinois.edu/mod/elluminate/view.php?id=1571629) |
 | Thrush | Monday | 4:00 pm - 5:00 pm | 234 Astronomy |
 
 ## Course Outline ##

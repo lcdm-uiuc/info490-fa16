@@ -24,12 +24,12 @@ manipulations of Python variables.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 2 Introduction Video][wv]** | 10 Minutes | Tuesday |20|
+|**[Week 2 Introduction Video][wv]** | 10 Minutes | Tuesday |N/A|
 |**[Week 2 Lesson 1: Basic Unix Concepts](lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 2 Lesson 2: Introduction to iPython](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 2 Lesson 3: Introduction to Python](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 2 Quiz][wq]**| 45 Minutes | Friday | 70|
-|**[Week 2 Assignment Submission][wa] to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**[Week 2 Assignment Submission][wa] to Instructor and for Peer Grading**| 3 Hours | Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 2 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
