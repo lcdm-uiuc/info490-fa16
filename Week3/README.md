@@ -38,7 +38,7 @@ iterating statements.
 
 ----------
 [wv]: https://mediaspace.illinois.edu/
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1676522
 
  
 Photo Credit: Python Logo. Created 2001, Python.org, Accessed 31 July 2015.
