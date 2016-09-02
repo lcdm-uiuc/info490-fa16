@@ -1,26 +1,35 @@
-#Week X: #
+#Week 6 Overview#
+![XKCD Extrapolating](images/regular_expressions.png)
+## Regular Expressions and Text Processing ##
+
+In this week, you will begin to use Python and Unix to learn about regular expressions and their associated commands so that you can search through text more effectively.  To finish up, you will learn about Unix text processing so that you can better modify and glean information from lines and files of text.
+
 ### Objectives ###
 
-![Unix Image](../images/Draft_Version_picture.png)
+#####By the end of this lesson, you should accomplish the following learning objectives:######
 
-#####By the end of this lesson, you should be able to:######
+- Understand how to use the sub, search, and compile functions within the re library.
+- Understand how to effectively specify the position and structure of the string you are searching for by using ```\b, ^, $, \d, \D, ?, *, +, {n,m}, (a|b),``` etc.
+- Understand how to sort through lines of text and report differences of files through the use of ```sort and uniq, comm, and diff```.
+- Understand how to modify lines of text and files using ```cut, paste, join, and patch```.
 
-- Know 
-- Understand 
-- Understand 
 
 ### Activities and Assignments ###
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week X Introduction Video][wv]** | 10 Minutes | Tuesday |N/A|
-|**[Week X Lesson 1: ](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week X Lesson 2: ](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week X Lesson 3: ](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week X Quiz**| 30 Minutes | Friday | 70|
+|**[Week 6 Introduction Video][w6v]**|15 Minutes|Tuesday|N/A|
+|**[Week 6 Lesson 1:Unix: Regular Expressions & Commands](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 6 Lesson 2:Python: Regular Expressions](lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 6 Lesson 3:Unix Text Processing](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 6 Quiz][w6q]**| 45 Minutes | Friday | 70|
+|**Week 6 Assignment Submission**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 6 Completion of Peer Review**| 1 hour | *The following* Saturday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
-[wq]: https://learn.illinois.edu/
+[w6q]: https://learn.illinois.edu/mod/quiz/
+[w6v]: https://mediaspace.illinois.edu/media/
+
+Photo Credit: [Regular Expressions Comic](http://xkcd.com/208/) by Randall Monroe. Accessed on the 23 of September.
