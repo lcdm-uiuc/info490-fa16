@@ -28,4 +28,4 @@ Approximately 2 hours.
 
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 1 Assessment][la]
 
-[la]: http://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1682648
