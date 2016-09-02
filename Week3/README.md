@@ -26,10 +26,10 @@ iterating statements.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 3 Introduction Video][wv]** |10 Minutes|Tuesday|N/A|
+|**[Week 3 Introduction Video][wv]** |15 Minutes|Tuesday|N/A|
 |**[Week 3 Lesson 1: Unix File System & Processes](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 3 Lesson 2: Python: Functions](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 3 Lesson 3: Python: Conditional Statements & Iteration](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 3 Lesson 2: Python: Functions](lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 3 Lesson 3: Python: Conditional Statements & Iteration](lesson3.md)**| 3 Hours | Thursday| 20 |
 |**[Week 3 Quiz][wq]**| 45 Minutes | Friday | 70|
 |**Week 3 Assignment Submission**| 3 Hours |  *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 3 Completion of Peer Review**| 1 Hour | *The following* Saturday | 50 | 
@@ -37,7 +37,7 @@ iterating statements.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/
+[wv]: https://mediaspace.illinois.edu/media/Week+Three/1_celjwkrb/48757791
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1676522
 
  
