@@ -1,26 +1,46 @@
-#Week X: #
+#Week 8 Overview#
+![Pandas logo](images/pandas_logo.png)
+##Introduction to Data Analysis in Python##
+
+In this week, you will learn to perform basic data analysis by using the
+Python programming language. To simplify data analysis tasks when
+working with Python we will first learn how to create and use fast
+numerical arrays and matrices in Python by using the numpy library.
+Numpy arrays underlie many of the Python data science software stack,
+and thus understanding them can improve your overall efficacy. Next you
+will be introduced to the Pandas library. Pandas introduces several new
+data structures into the Python language, including the Series and the
+DataFrame, both of which allow you to access data by a column label in
+the same manner you used numerical indices with a NumPy array. Pandas
+goes beyond this to allow you to select, aggregate and filter data by
+using expressions when slicing data from a Pandas data structure.
+
 ### Objectives ###
 
-![Unix Image](../images/Draft_Version_picture.png)
+#####By the end of this lesson, you should accomplish the following learning objectives:######
 
-#####By the end of this lesson, you should be able to:######
-
-- Know 
-- Understand 
-- Understand 
+- Understand how to use the Numpy library to perform fast array and matrix operations
+- Understand how to use the Pandas library to read and write structured data into a Python program.
+- Understand how to use a Pandas DataFrame to select, group, and filter data.
 
 ### Activities and Assignments ###
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week X Introduction Video][wv]** | 10 Minutes | Tuesday |N/A|
-|**[Week X Lesson 1: ](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week X Lesson 2: ](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week X Lesson 3: ](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week X Quiz**| 30 Minutes | Friday | 70|
+|**[Week 8 Introduction Video][w8v]**|15 Minutes|Tuesday|N/A|
+|**[Week 8 Lesson 1: Python: Introduction to Numpy](lesson1.md)**| 3 Hours |Thursday| 20|
+|**[Week 8 Lesson 2: Python: Introduction to Pandas](lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 8 Lesson 3: Python: Pandas DataFrame](lesson3.md)**| 2 Hours | Thursday| 70 |
+|**[Week 8 Quiz][w8q]**| 45 Minutes | Friday | 70|
+|**Week 8 Assignment Submission**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 8 Completion of Peer Review**| 1 Hour | *The following* Saturday | 50 | 
+
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
-[wq]: https://learn.illinois.edu/
+[w8v]: https://mediaspace.illinois.edu/media/
+[w8q]: https://learn.illinois.edu/mod/quiz/
+
+Photo Credit: Pandas Logo, From pandas.pydata.org. Accessed 3 August 2015.
+
