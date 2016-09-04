@@ -21,7 +21,7 @@ You will have to manually activate it. To display the assignment tab,
    ![](images/assignments_tab.png)
 5. When assignments are released, it will show up under `Released assignments`. 
    Click the blue `Fetch` button to download the assignments. 
-   Downloading a new week's assignments will NOT affect your current week's assignments.
+   Downloading a new week's assignments will *NOT* affect your current week's assignments.
    ![](images/assignments_tab_first_assignment.png)
 6. Once you have fetched the assignments, a folder named `WeekX_Assignment_due_XX_XX` will show up under `Downloaded assignments`.
    When you click that folder, you can see `Problem_1`, `Problem_2`, and `Problem_3`. 
