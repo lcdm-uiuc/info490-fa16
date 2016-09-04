@@ -19,6 +19,8 @@ You will have to manually activate it. To display the assignment tab,
 4. You should now be able to see the *Assignments* tab after _Files_,
    _Running_, and _Clusters_.
    ![](images/assignments_tab.png)
+
+## Download and submit the assignments
 5. When assignments are released, it will show up under `Released assignments`. 
    Click the blue `Fetch` button to download the assignments. 
    Downloading a new week's assignments will *NOT* affect your current week's assignments.
