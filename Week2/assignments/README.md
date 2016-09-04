@@ -21,17 +21,17 @@ You will have to manually activate it. To display the assignment tab,
    ![](images/assignments_tab.png)
 
 ## Download and submit the assignments
-5. When assignments are released, it will show up under `Released assignments`. 
+1. When assignments are released, it will show up under `Released assignments`. 
    Click the blue `Fetch` button to download the assignments. 
    Downloading a new week's assignments will *NOT* affect your current week's assignments.
    ![](images/assignments_tab_first_assignment.png)
-6. Once you have fetched the assignments, a folder named `WeekX_Assignment_due_XX_XX` will show up under `Downloaded assignments`.
+2. Once you have fetched the assignments, a folder named `WeekX_Assignment_due_XX_XX` will show up under `Downloaded assignments`.
    When you click that folder, you can see `Problem_1`, `Problem_2`, and `Problem_3`. 
    Those are the links to the assignment notebooks.
    After you completed your assignments, click the blue `Submit` button to submit your assignments. 
    All the assignment notebooks in that week's folder will be submitted at the same time.
   ![](images/submit_assignment.png)
-7. You are allowed to submit an assignment *multiple* times. For example, if have
+3. You are allowed to submit an assignment *multiple* times. For example, if have
   already submitted an assignment but later realize you made a mistake and want
   to fix it, you can simply change your solution, save the notebook, and submit
   again. Your latest submission before deadline will be count as your final submission.
