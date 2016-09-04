@@ -33,7 +33,7 @@ You will have to manually activate it. To display the assignment tab,
   already submitted an assignment but later realize you made a mistake and want
   to fix it, you can simply change your solution, save the notebook, and submit
   again. Your latest submission before deadline will be count as your final submission.
-   ![](images/submited_assignment.png) 
+   ![](images/submitted_assignment.png) 
 
 Notes:
 
