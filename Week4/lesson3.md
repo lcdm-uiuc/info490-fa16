@@ -34,4 +34,4 @@ Approximately 3 hours.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 4 Lesson 3 Assessment](https://learn.illinois.edu/mod/quiz/).
+When you have completed and worked through the above readings, please take the [Week 4 Lesson 3 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1682666).
