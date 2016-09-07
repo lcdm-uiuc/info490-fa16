@@ -27,7 +27,7 @@ In this week, you will again be delving further into Unix and Python. First, you
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w4q]: https://learn.illinois.edu/mod/quiz/
+[w4q]: https://learn.illinois.edu/mod/quiz/view.php?id=1676534
 [w4v]: https://mediaspace.illinois.edu/media/
 
 Photo Credit: Python Logo. Created 2001, Python.org, Accessed 31 July 2015.
