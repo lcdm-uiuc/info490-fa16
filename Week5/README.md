@@ -32,6 +32,6 @@ The lessons this week will focus on learning how to use: networking commands ins
 
 ----------
 [w5q]: https://learn.illinois.edu/mod/quiz/
-[w5v]: https://mediaspace.illinois.edu/media/
+[w5v]: https://mediaspace.illinois.edu/media/Week+Five/1_dp5wpgj8/48757791
 
 Photo Credit: [Sustainable Comic](http://imgs.xkcd.com/comics/sustainable.png) by Randall Monroe, Accessed on 31 July 2015.
