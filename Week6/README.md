@@ -21,10 +21,10 @@ In this week, you will begin to use Python and Unix to learn about regular expre
 |**[Week 6 Introduction Video][w6v]**|15 Minutes|Tuesday|N/A|
 |**[Week 6 Lesson 1:Unix: Regular Expressions & Commands](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 6 Lesson 2:Python: Regular Expressions](lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 6 Lesson 3:Unix Text Processing](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 6 Lesson 3:Unix Text Processing](lesson3.md)**| 3 Hours | Thursday| 20 |
 |**[Week 6 Quiz][w6q]**| 45 Minutes | Friday | 70|
-|**Week 6 Assignment Submission**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 6 Completion of Peer Review**| 1 hour | *The following* Saturday | 50 | 
+|**Week 6 Assignment Submission**| 3 Hours | *The following* Monday | 80 from the Instructor, 40 from Peer grading | 
+|**Week 6 Completion of Peer Review**| 1 hour | *The following* Saturday | 30 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
