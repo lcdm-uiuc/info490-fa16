@@ -22,10 +22,10 @@ The lessons this week will focus on learning how to use: networking commands ins
 |**[Week 5 Introduction Video][w5v]**|15 Minutes|Tuesday|N/A|
 |**[Week 5 Lesson 1: Unix: Networking and Basic Commands](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 5 Lesson 2: Working with the Underlying File System](lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 5 Lesson 3: Python: Network Programming](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 5 Lesson 3: Python: Network Programming](lesson3.md)**| 3 Hours | Thursday| 20 |
 |**[Week 5 Quiz][w5q]**| 45 Minutes | Friday | 70|
-|**Week 5 Assignment Submission**| 3 Hours | *The following*  Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 5 Completion of Peer Review**| 1 Hour | *The following* Saturday | 50 | 
+|**Week 5 Assignment Submission**| 3 Hours | *The following*  Monday | 80 from the Instructor, 40 from Peer grading | 
+|**Week 5 Completion of Peer Review**| 1 Hour | *The following* Saturday | 30 | 
 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
