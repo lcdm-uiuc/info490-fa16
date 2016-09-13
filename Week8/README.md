@@ -30,10 +30,10 @@ using expressions when slicing data from a Pandas data structure.
 |**[Week 8 Introduction Video][w8v]**|15 Minutes|Tuesday|N/A|
 |**[Week 8 Lesson 1: Python: Introduction to Numpy](lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 8 Lesson 2: Python: Introduction to Pandas](lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 8 Lesson 3: Python: Pandas DataFrame](lesson3.md)**| 2 Hours | Thursday| 70 |
+|**[Week 8 Lesson 3: Python: Pandas DataFrame](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 8 Quiz][w8q]**| 45 Minutes | Friday | 70|
-|**Week 8 Assignment Submission**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 8 Completion of Peer Review**| 1 Hour | *The following* Saturday | 50 | 
+|**Week 8 Assignment Submission**| 3 Hours | *The following* Monday | 80 from the Instructor, 40 from Peer grading | 
+|**Week 8 Completion of Peer Review**| 1 Hour | *The following* Saturday | 30 | 
 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
