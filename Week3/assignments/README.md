@@ -1,7 +1,7 @@
 # Week 3 Assignment
 ## How to read Python error messages
 
-Python error messages give important information to debug your code. Here are some tips to read and understand of Python error tracebacks. *No.1 and No.2 are must-read tips if you do not have time to read through.* Let's take the error message below as an example. 
+Python error messages give important information to debug your code. Here are some tips to read and understand of Python error tracebacks. *No.2 and No.3 are must-read tips if you do not have time to read through.* Let's take the error message below as an example. 
 ![](images/error_example1.png)
 
 0. DON'T PANIC! Python often gives quite long error messages, but we do not need to understand all the lines most of the time.
