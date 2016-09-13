@@ -20,10 +20,10 @@ In this week, you will learn about different data formats. First we will discuss
 |**[Week 9 Introduction Video][w9v]**|15 Minutes|Tuesday|N/A|
 |**[Week 9 Lesson 1: Data Format: Text](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 9 Lesson 2: Data Format: JSON](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 9 Lesson 3: Data Format: XML](lesson3.md)**| 2 Hours | Thursday| 70 |
+|**[Week 9 Lesson 3: Data Format: XML](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 9 Quiz][w9q]**| 45 Minutes | Friday | 70|
-|**Week 9 Assignment Submission**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 9 Completion of Peer Review**| 1 Hour | *The following* Saturday | 50 | 
+|**Week 9 Assignment Submission**| 3 Hours | *The following* Monday | 80 from the Instructor, 40 from Peer grading | 
+|**Week 9 Completion of Peer Review**| 1 Hour | *The following* Saturday | 30 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
