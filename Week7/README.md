@@ -28,10 +28,10 @@ and Seaborn libraries.
 |**[Week 7 Introduction Video][w7v]**|15 Minutes|Tuesday|N/A|
 |**[Week 7 Lesson 1: Introduction to Data Visualizations](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 7 Lesson 2: Python: Plotting](lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 7 Lesson 3: Python: Data Plotting](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 7 Lesson 3: Python: Data Plotting](lesson3.md)**| 3 Hours | Thursday| 20 |
 |**[Week 7 Quiz][w7q]**| 45 Minutes | Friday | 70|
-|**Week 7 Assignment Submission**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 7 Completion of Peer Review**| 1 Hour | *The following* Saturday | 50 | 
+|**Week 7 Assignment Submission**| 3 Hours | *The following* Monday | 80 from the Instructor, 40 from Peer grading | 
+|**Week 7 Completion of Peer Review**| 1 Hour | *The following* Saturday | 30 | 
 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
