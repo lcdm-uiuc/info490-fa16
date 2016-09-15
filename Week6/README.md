@@ -29,7 +29,7 @@ In this week, you will begin to use Python and Unix to learn about regular expre
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w6q]: https://learn.illinois.edu/mod/quiz/
+[w6q]: https://learn.illinois.edu/mod/quiz/view.php?id=1676547
 [w6v]: https://mediaspace.illinois.edu/media/
 
 Photo Credit: [Regular Expressions Comic](http://xkcd.com/208/) by Randall Monroe. Accessed on the 23 of September.
