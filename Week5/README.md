@@ -24,7 +24,7 @@ The lessons this week will focus on learning how to use: networking commands ins
 |**[Week 5 Lesson 2: Working with the Underlying File System](lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 5 Lesson 3: Python: Network Programming](lesson3.md)**| 3 Hours | Thursday| 20 |
 |**[Week 5 Quiz][w5q]**| 45 Minutes | Friday | 70|
-|**Week 5 Assignment Submission**| 3 Hours | *The following*  Monday | 80 from the Instructor, 40 from Peer grading | 
+|**Week 5 Assignment Submission**| 3 Hours | *The following*  Monday | 80 from the Instructor, 40 from Peer Assessment | 
 |**Week 5 Completion of Peer Review**| 1 Hour | *The following* Saturday | 30 | 
 
 
