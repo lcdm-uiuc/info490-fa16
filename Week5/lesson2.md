@@ -28,7 +28,7 @@ Approximately 2 hours.
 
 #### *Optional Additional Readings*####
 
-- Chapter 14 [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf)
+- Chapter 14 [Think Python](http://greenteapress.com/thinkpython2/html/index.html)
 
 ### Assessment ###
 
