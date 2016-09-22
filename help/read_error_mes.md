@@ -1,5 +1,4 @@
-# Week 3 Assignment
-## How to read Python error messages
+# How to read Python error messages
 
 Python error messages give important information to debug your code. Here are some tips to read and understand of Python error tracebacks. *No.2 and No.3 are must-read tips if you do not have time to read through.* Let's take the error message below as an example. 
 ![](images/error_example1.png)
@@ -22,7 +21,7 @@ Python error messages give important information to debug your code. Here are so
 
 6. The tips may be updated in the future once I come up with more.
 
-## How to ask good coding questions
+# How to ask good coding questions
 
 If you have found what the error message is and where in the code it refers, but do not know how to solve it, consider searching google for the exact error message. Often times, this search will give you helpful information about where in your code to look for errors.  Alternately, you can search through the class forum to see if your peers have had similar issues which have been since resolved.
 
