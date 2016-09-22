@@ -1,5 +1,4 @@
-# Week 2 Assignment
-## Activating the assignments tab
+# Activating the assignments tab
 
 To view and submit your assignments, you have to use the assignment tab on
 the course JupyterHub server. The assignment tab is not activated by default.
