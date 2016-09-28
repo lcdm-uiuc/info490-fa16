@@ -1,7 +1,7 @@
 #Week 7 Overview#
 
 ![conditional_risk comic from XKCD](images/conditional_risk.png)
-## Introduction to Statistical Analysis ##
+## Introduction to Visualization ##
 
 The lessons this week will focus on learning about data visualizations.
 First, you will learn how visualization masters enable others to _see_
@@ -37,7 +37,7 @@ and Seaborn libraries.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w7v]: https://mediaspace.illinois.edu/media/
+[w7v]: https://mediaspace.illinois.edu/media/Week+Seven/1_35j244l0/48757791
 [w7q]: https://learn.illinois.edu/mod/quiz/
 
 Photo Credit: [Conditional Risk](http://imgs.xkcd.com/comics/conditional_risk.png) by Randall Monroe. Accessed on 31 July 2015.
