@@ -38,6 +38,6 @@ and Seaborn libraries.
 
 ----------
 [w7v]: https://mediaspace.illinois.edu/media/Week+Seven/1_35j244l0/48757791
-[w7q]: https://learn.illinois.edu/mod/quiz/
+[w7q]: https://learn.illinois.edu/mod/quiz/view.php?id=1676552
 
 Photo Credit: [Conditional Risk](http://imgs.xkcd.com/comics/conditional_risk.png) by Randall Monroe. Accessed on 31 July 2015.
