@@ -38,4 +38,4 @@ or backup link to [Numpy Tutorial](http://www.cs.man.ac.uk/~barry/mydocs/MyCOMP2
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 8 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/).
+When you have completed and worked through the above readings, please take the [Week 8 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1682721).
