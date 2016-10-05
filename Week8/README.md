@@ -39,7 +39,7 @@ using expressions when slicing data from a Pandas data structure.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w8v]: https://mediaspace.illinois.edu/media/
+[w8v]: https://mediaspace.illinois.edu/media/Week+Eight/1_9o9p39fw/48757791
 [w8q]: https://learn.illinois.edu/mod/quiz/
 
 Photo Credit: Pandas Logo, From pandas.pydata.org. Accessed 3 August 2015.
