@@ -29,7 +29,7 @@ In this week, you will learn about different data formats. First we will discuss
 
 ----------
 [w9v]: https://mediaspace.illinois.edu/media/
-[w9q]: https://learn.illinois.edu/mod/quiz/
+[w9q]: https://learn.illinois.edu/mod/quiz/view.php?id=1676828
 
 
 Photo Credit: Data Processing Center.  By Harley Schwadron. From cartoonstock.com.  Accessed 3 August 2015.
