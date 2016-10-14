@@ -19,7 +19,18 @@ Python error messages give important information to debug your code. Here are so
 5. A syntax error has the highest priority since the notebook stops before it tries to run. When you encounter a syntax error, check the spelling, case, quotation marks, parentheses, etc. Below is a syntax error example. It actually contains more than 1 error. See how Python reports the exception:
 ![](images/error_example5.png)
 
-6. The tips may be updated in the future once I come up with more.
+6. Errors in user-defined function: If there is an error in a user-defined function, unless it is a syntax error, python will not generate an error message in the cell of the function, because the function has not yet been executed. Python prints out the error message at the cell where the errorneous funtion is executed. In the error message, we are going to see two four-slash arrows (`---->`). As is shown in the example below, the first `---->` arrow tells you the line number in the cell where you try to run a funtion that has an error, and the second `---->` arrow tells you the line number in the cell where the function is created. For our assignments, the second `---->` arrow is more important in general. 
+![](images/error_example6.png)
+
+7. Tip 6 talks about the case that a function has an error but the line to execute the function does NOT has an error. If the code to call the user-defined function has an error, for example, a missing argument, then you still get one `---->` arrow instead of two. It is pretty much the same case as when you call a built-in Python function (as is discussed in tip 1-5). 
+![](images/error_example7.png)
+
+8. To write a complex function, you can start by assigning values to the input arguments, and write your codes outside the function. When you are done with the testing, just copy and paste your code inside the function and add a return statement. It is useful to print out the intermediate values if you are not confident about certain steps. Once you get more familiar with writing functions, you could work directly inside your function, but still, it is useful to either print out or return the intermediate variables so that you can debug. Other useful functions for debugging in addition to `print()` include: `type()`, `len()` for string and array-like objects.
+![](images/error_example8.png)
+
+9. As you should have noticed, the correct answers to the assignments are shown in the assertion test codes. For example, in Week 4 Problem 3, we have this line of code to test the `dict_from_lists()` function: `assert_equal(dict_from_lists([1, 2], ['1', '2']), {1: '1', 2: '2'})`. `assert_equal()` operates like an equation. In this example, `dict_from_lists([1, 2], ['1', '2'])` is the code to execute the funcion, and `{1: '1', 2: '2'}` is the answer. `assert_equal()` will complain if its two arguments do not match.
+
+10. The tips may be updated in the future once I come up with more.
 
 # How to ask good coding questions
 
