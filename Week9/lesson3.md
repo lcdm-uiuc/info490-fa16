@@ -1,7 +1,7 @@
 # Week 9 Lesson 3 #
 ## XML Data Format ##
 
-In this lesson, you will learn about what the XML Data format is, how to parse a document, and how to read and write an XML file.
+In this lesson, you will learn about what the eXtensible Markup Language (XML) Data format is, how to parse a document, and how to read and write an XML file.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
@@ -14,7 +14,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](notebooks/xml-dataformat.ipynb) on Data Formats
+- Course [IPython Notebook](notebooks/xml-dataformat.ipynb) on XML Data Formats
 
 - The [XML](https://en.wikipedia.org/wiki/XML) Document format
 

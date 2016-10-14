@@ -3,7 +3,7 @@
 ![Data Processing Comic](images/BBQ.gif)
 ## Introduction to Data Formats ##
 
-In this week, you will learn about different data formats. First we will discuss the text data format, which will include the .csv and .txt files. Next, we will discuss JSON files. Finally, we will discuss XML files and how to read and write them.
+In this week, you will learn about different data formats. First we will discuss the text data format, which will include the `.csv` and `.txt` files. Next, we will discuss JSON files. Finally, we will discuss XML files and how to read and write them.
 
 ### Objectives ###
 

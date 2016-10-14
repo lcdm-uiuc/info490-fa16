@@ -16,7 +16,8 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](notebooks/text-dataformat.ipynb) on Data Formats
+- Course [IPython Notebook](notebooks/text-dataformat.ipynb) on text Data Formats
+
 - The [Delimiter](https://en.wikipedia.org/wiki/Delimiter-separated_values) Separated Value format
 - The [Comma](https://en.wikipedia.org/wiki/Comma-separated_values) Separated Value format
 

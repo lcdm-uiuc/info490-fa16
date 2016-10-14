@@ -1,7 +1,7 @@
 # Week 9 Lesson 2 #
 ## JSON Data Format ##
 
-In this lesson, you will learn about creating, and reading from a JSON file.
+In this lesson, you will learn about creating, and reading from a JavaScript Object Notation (JSON) file.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
@@ -15,7 +15,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](notebooks/json-dataformats.ipynb) on Data Formats
+- Course [IPython Notebook](notebooks/json-dataformats.ipynb) on JSON Data Formats
 
 - The [JSON](https://en.wikipedia.org/wiki/JSON) Document format
 
