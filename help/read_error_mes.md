@@ -14,7 +14,7 @@ Python error messages give important information to debug your code. Here are so
 3. The middle parts can be skipped for now. Basically, those lines tell you deeper why the error raises, tracing back to Python builtin modules. For this class, you do not have to read and understand those parts. You need to care about the `---->` arrow only, not `-->` arrows. But if you are interested, feel free to dig them in details.
 ![](images/error_example4.png)
 
-4. If your codes have more than 1 problem, the error message only gives you the first error the notebook has encountered because it stopps immediately the error eccurs. Don't be suprised if you rerun the cell and get a different error message.
+4. If your codes have more than 1 problem, the error message only gives you the first error the notebook has encountered because it stopps immediately the error eccurs. Don't be suprised if you rerun the cell and get a different error message after you have fixed a bug in the code cell.
 
 5. A syntax error has the highest priority since the notebook stops before it tries to run. When you encounter a syntax error, check the spelling, case, quotation marks, parentheses, etc. Below is a syntax error example. It actually contains more than 1 error. See how Python reports the exception:
 ![](images/error_example5.png)
