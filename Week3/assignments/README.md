@@ -29,12 +29,7 @@ Python error messages give important information to debug your code. Here are so
 8. To write a complex function, you can start by assigning values to the input arguments, and write your codes outside the function. When you are done with the testing, just copy and paste your code inside the function and add a return statement. It is useful to print out the intermediate values if you are not confident about certain steps. Once you get more familiar with writing functions, you could work directly inside your function, but still, it is useful to either print out or return the intermediate variables so that you can debug. Other useful functions for debugging in addition to `print()` include: `type()`, `len()` for string and array-like objects.
 ![](images/error_example8.png)
 
-9. As you should have noticed, the correct answers to the assignments are shown in the assertion test codes. For example, in Week 4 Problem 3, we have this line of code to test the `dict_from_lists()` function:
-
-`assert_equal(dict_from_lists([1, 2], ['1', '2']), {1: '1', 2: '2'})`
-
-`assert_equal()` operates like an equation. In this example, `dict_from_lists([1, 2], ['1', '2'])` is the code to execute the funcion, and `
-{1: '1', 2: '2'}` is the answer. `assert_equal()` will complain if its two arguments do not match.
+9. As you should have noticed, the correct answers to the assignments are shown in the assertion test codes. For example, in Week 4 Problem 3, we have this line of code to test the `dict_from_lists()` function: `assert_equal(dict_from_lists([1, 2], ['1', '2']), {1: '1', 2: '2'})`. `assert_equal()` operates like an equation. In this example, `dict_from_lists([1, 2], ['1', '2'])` is the code to execute the funcion, and `{1: '1', 2: '2'}` is the answer. `assert_equal()` will complain if its two arguments do not match.
 
 10. The tips may be updated in the future once I come up with more.
 
