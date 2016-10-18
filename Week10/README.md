@@ -1,26 +1,41 @@
-#Week X: #
+#Week 10 Overview#
+
+## Introduction to Statistical Analysis ##
+
+This week you will learn about basic statistical analysis by using
+distribution functions and summary statistics. First, you will learn
+about representing data by a distribution, and how summary statistics
+can simplify this description. Next you will learn about more powerful
+distributions functions, including ones generated directly from the data
+like a probability mass function and a cumulative density function, as
+well as more commonly used theoretical distributions that can be used to
+approximate data. Finally, you will learn about visualization
+distributions by using matplotlib and seaborn.
+
 ### Objectives ###
 
-![Unix Image](../images/Draft_Version_picture.png)
+#####By the end of this lesson, you should accomplish the following learning objectives:######
 
-#####By the end of this lesson, you should be able to:######
-
-- Know 
-- Understand 
-- Understand 
+- Understand the different summary statistics.
+- Understand how to create and use mass and density functions to represent data sets.
+- Understand how theoretical distributions can be used to approximate data sets.
+- Understand how to visualize distributions by using Python.
 
 ### Activities and Assignments ###
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week X Introduction Video][wv]** | 10 Minutes | Tuesday |N/A|
-|**[Week X Lesson 1: ](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week X Lesson 2: ](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week X Lesson 3: ](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week X Quiz**| 30 Minutes | Friday | 70|
+|**[Week 10 Introduction Video][w10v]**|10 Minutes|Tuesday|NA|
+|**[Week 10 Lesson 1: Statistics: Summary Measures](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 10 Lesson 2: Statistics: Distributions](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 10 Lesson 3: Statistics: Visualization](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 10 Quiz][w10q]**| 45 Minutes | Friday | 70|
+|**[Week 10 Assignment Submission][w10a]**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 10 Completion of Peer Review**| 3 Hours | *The following* Saturday | 30 | 
+
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
-[wq]: https://learn.illinois.edu/
+[w10v]: https://mediaspace.illinois.edu/media/
+[w10q]: https://learn.illinois.edu/mod/quiz/
