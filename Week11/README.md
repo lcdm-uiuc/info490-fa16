@@ -27,7 +27,7 @@ problems, and can, therefore, be a useful skill to possess
 |**[Week 11 Lesson 2: Functional Programming in Python, Part I](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 11 Lesson 3: Functional Programming in Python, Part II](lesson3.md)**| 3 Hours | Thursday| 20 |
 |**[Week 11 Quiz][w11q]**| 45 Minutes | Friday | 70|
-|**[Week 11 Assignment Submission][w11a]**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 11 Assignment Submission**| 3 Hours | *The following* Monday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 11 Completion of Peer Review**| 3 Hours | *The following* Saturday | 30 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
