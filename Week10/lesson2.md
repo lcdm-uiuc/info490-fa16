@@ -42,4 +42,4 @@ distributions.
 
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 2 Assessment][w10l2a]
 
-[w10l2a]: https://learn.illinois.edu/mod/quiz/
+[w10l2a]: https://learn.illinois.edu/mod/quiz/view.php?id=1682741
