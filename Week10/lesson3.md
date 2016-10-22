@@ -26,7 +26,7 @@ Approximately 2 hours.
 ### Readings ####
 
 - Introduction to [Distribution visualizations](notebook/intro2dataviz.ipynb)
-- Using [Seaborn to plot distributions](http://stanford.edu/~mwaskom/software/seaborn/tutorial/distributions.html)
+- Using [Seaborn to plot distributions](http://seaborn.pydata.org/tutorial/distributions.html)
 - Demonstration of [how to improve a visualization](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
  
 #### *Optional Additional Readings*####
@@ -39,4 +39,4 @@ Approximately 2 hours.
 
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 3 Assessment][w10l3a]
 
-[w10l3a]: https://learn.illinois.edu/mod/quiz/
+[w10l3a]: https://learn.illinois.edu/mod/quiz/view.php?id=1682744

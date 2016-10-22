@@ -32,4 +32,4 @@ Approximately 2 hours.
 
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 1 Assessment][w10l1a]
 
-[w10l1a]: https://learn.illinois.edu/mod/quiz/
+[w10l1a]: https://learn.illinois.edu/mod/quiz/view.php?id=1682739

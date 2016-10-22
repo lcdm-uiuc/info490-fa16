@@ -37,5 +37,5 @@ distributions by using matplotlib and seaborn.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w10v]: https://mediaspace.illinois.edu/media/
-[w10q]: https://learn.illinois.edu/mod/quiz/
+[w10v]: https://mediaspace.illinois.edu/media/Week+Ten/1_84xov77p/48757791
+[w10q]: https://learn.illinois.edu/mod/quiz/view.php?id=1676835
