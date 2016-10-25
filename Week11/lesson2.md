@@ -41,4 +41,4 @@ Note that are using Python2.
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 11 Lesson 2 Assessment][w11la]
-[w11la]: https://learn.illinois.edu/mod/quiz/
+[w11la]: https://learn.illinois.edu/mod/quiz/1682750

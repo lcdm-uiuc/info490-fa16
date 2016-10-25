@@ -42,4 +42,4 @@ To master FP concepts in Python3, I would encourage you to read the rest of this
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 11 Lesson 3 Assessment][w11la]
-[w11la]: https://learn.illinois.edu/mod/quiz/
+[w11la]: https://learn.illinois.edu/mod/quiz/view.php?id=1682753

@@ -34,5 +34,5 @@ problems, and can, therefore, be a useful skill to possess
 
 ----------
 [w11v]: https://mediaspace.illinois.edu/media/Week+Eleven/1_j2l96ypc/48757791
-[w11q]: https://learn.illinois.edu/mod/quiz/
+[w11q]: https://learn.illinois.edu/mod/quiz/view.php?id=1676837
 
