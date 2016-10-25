@@ -43,4 +43,4 @@ Approximately 2 hours.
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 11 Lesson 1 Assessment][w11la]
-[w11la]: https://learn.illinois.edu/mod/quiz/1682750
+[w11la]: https://learn.illinois.edu/mod/quiz/view.php?id=1682739
