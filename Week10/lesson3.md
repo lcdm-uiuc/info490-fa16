@@ -27,7 +27,7 @@ Approximately 2 hours.
 
 - Introduction to [Distribution visualizations](notebook/intro2dataviz.ipynb)
 - Using [Seaborn to plot distributions](http://seaborn.pydata.org/tutorial/distributions.html)
-- Demonstration of [how to improve a visualization](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
+- Demonstration of [how to improve a visualization](http://www.darkhorseanalytics.com/darkhorse-blog-categories/data-looks-better-naked)
  
 #### *Optional Additional Readings*####
 
