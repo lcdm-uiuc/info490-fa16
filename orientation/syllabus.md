@@ -149,7 +149,7 @@ offer a broader context for the new week, explain key concepts, and
 demonstrate important tasks. To view the instructor videos, you will
 need to login to the Illinois Mediaspace (links are embedded in the
 relevant weekly overview). You will not be graded for watching the videos; 
-hopwever, we strongly encourage you to watch them as they contain 
+however, we strongly encourage you to watch them as they contain 
 information and demonstrations that will prove helpful as you work through each 
 week's lessons.
 
