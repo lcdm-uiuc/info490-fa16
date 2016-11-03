@@ -39,4 +39,4 @@ Approximately 2 hours.
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 12 Lesson 2 Assessment][w12la]
-[w12la]: https://learn.illinois.edu/mod/quiz/
+[w12la]: https://learn.illinois.edu/mod/quiz/view.php?id=1682756
