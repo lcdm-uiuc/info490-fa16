@@ -40,6 +40,6 @@ manipulation language (DML) functionality.
 
 ----------
 [w12v]: https://mediaspace.illinois.edu/media/
-[w12q]: https://learn.illinois.edu/mod/quiz/
+[w12q]:https://learn.illinois.edu/mod/quiz/view.php?id=1676843
 
 Photo Credit: If Libraries were like relational databases by Brian Panulla. Created 31 December 2010. http://ghostednotes.com/2010/12/31/if-libraries-were-like-relational-databases. Accessed 3 August 2015
