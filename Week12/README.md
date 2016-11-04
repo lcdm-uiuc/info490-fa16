@@ -39,7 +39,7 @@ manipulation language (DML) functionality.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w12v]: https://mediaspace.illinois.edu/media/
+[w12v]: https://mediaspace.illinois.edu/media/Week+Twelve/1_go6in4if/48757791
 [w12q]:https://learn.illinois.edu/mod/quiz/view.php?id=1676843
 
 Photo Credit: If Libraries were like relational databases by Brian Panulla. Created 31 December 2010. http://ghostednotes.com/2010/12/31/if-libraries-were-like-relational-databases. Accessed 3 August 2015
