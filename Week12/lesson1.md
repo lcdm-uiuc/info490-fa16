@@ -30,7 +30,7 @@ Approximately 2 hours.
 #### *Optional Additional Readings*####
 
 - [Database and SQL Tutorial](http://www.tutorialspoint.com/sql/index.htm): From the SQL-Home page through the SQL-Databases page.
-- SQLite Tutorial](http://www.tutorialspoint.com/sqlite/index.htm): From the SQLite-Home page through the SQLite-Commands page
+- [SQLite Tutorial](http://www.tutorialspoint.com/sqlite/index.htm): From the SQLite-Home page through the SQLite-Commands page
 
 ### Assessment ###
 
