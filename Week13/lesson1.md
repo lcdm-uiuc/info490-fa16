@@ -35,4 +35,4 @@ Tutorial](http://www.python-course.eu/python3_object_oriented_programming.php), 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 13 Lesson 1 Assessment][w13la]
-[w13la]: https://learn.illinois.edu/mod/quiz/
+[w13la]: https://learn.illinois.edu/mod/quiz/view.php?id=1682762
