@@ -98,15 +98,15 @@
 	<text id="PA" x="764" y="220">0</text>
 	<text id="NY" x="798" y="167">0</text>
 	<text id="ME" x="884" y="74">0</text>
-	<text id="NH" x="800" y="58" font-size="22">NH 0</text>
-	<text id="VT" x="790" y="82" font-size="22">VT 0</text>
-	<text id="MA" x="927" y="164" font-size="22">MA 0</text>
-	<text id="RI" x="925" y="199" font-size="22">RI 0</text>
-	<text id="CT" x="918" y="228" font-size="22">CT 0</text>
-	<text id="NJ" x="898" y="260" font-size="22">NJ 0</text>
-	<text id="DE" x="891" y="284" font-size="22">DE 0</text>
-	<text id="MD" x="883" y="305" font-size="22">MD 0</text>
-	<text id="DC" x="864" y="327" font-size="22">DC 0</text>
+	<text id="NH" x="800" y="58" font-size="22">0</text>
+	<text id="VT" x="790" y="82" font-size="22">0</text>
+	<text id="MA" x="927" y="164" font-size="22">0</text>
+	<text id="RI" x="925" y="199" font-size="22">0</text>
+	<text id="CT" x="918" y="228" font-size="22">0</text>
+	<text id="NJ" x="898" y="260" font-size="22">0</text>
+	<text id="DE" x="891" y="284" font-size="22">0</text>
+	<text id="MD" x="883" y="305" font-size="22">0</text>
+	<text id="DC" x="864" y="327" font-size="22">0</text>
 	<text id="ME-2" x="877" y="104" font-size="25">0</text>
 	<text id="DemL" x="855" y="425">Clinton</text>
 	<text id="RepL" x="855" y="458">Trump</text>
