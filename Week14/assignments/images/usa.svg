@@ -56,63 +56,63 @@
 	<circle id="ME-2" fill="#D3D3D3" cx="884" cy="96" r="14"/>
 </g>
 <g id="text" font-family="Helvetica Neue" font-size="28" font-weight="bold">
-	<text id="AKn" x="110" y="504">0</text>
-	<text id="HIn" x="261" y="565">0</text>
-	<text id="WAn" x="105" y="62">0</text>
-	<text id="ORn" x="88" y="136">0</text>
-	<text id="CAn" x="55" y="298">0</text>
-	<text id="NVn" x="120" y="242">0</text>
-	<text id="AZn" x="182" y="368">0</text>
-	<text id="UTn" x="209" y="265">0</text>
-	<text id="IDn" x="183" y="162">0</text>
-	<text id="MTn" x="270" y="100">0</text>
-	<text id="WYn" x="290" y="191">0</text>
-	<text id="COn" x="311" y="283">0</text>
-	<text id="NMn" x="290" y="381">0</text>
-	<text id="TXn" x="410" y="458">0</text>
-	<text id="OKn" x="451" y="370">0</text>
-	<text id="KSn" x="434" y="303">0</text>
-	<text id="NEn" x="411" y="232">0</text>
-	<text id="SDn" x="405" y="170">0</text>
-	<text id="NDn" x="405" y="103">0</text>
-	<text id="MNn" x="484" y="129">0</text>
-	<text id="WIn" x="561" y="163">0</text>
-	<text id="ILn" x="579" y="261">0</text>
-	<text id="IAn" x="513" y="224">0</text>
-	<text id="MOn" x="525" y="306">0</text>
-	<text id="ARn" x="534" y="384">0</text>
-	<text id="LAn" x="536" y="452">0</text>
-	<text id="MSn" x="587" y="428">0</text>
-	<text id="ALn" x="641" y="422">0</text>
-	<text id="GAn" x="697" y="419">0</text>
-	<text id="FLn" x="743" y="505">0</text>
-	<text id="SCn" x="745" y="380">0</text>
-	<text id="NCn" x="763" y="342">0</text>
-	<text id="TNn" x="633" y="353">0</text>
-	<text id="KYn" x="666" y="311">0</text>
-	<text id="INn" x="630" y="262">0</text>
-	<text id="MIn" x="645" y="193">0</text>
-	<text id="OHn" x="685" y="248">0</text>
-	<text id="WVn" x="730" y="281">0</text>
-	<text id="VAn" x="767" y="294">0</text>
-	<text id="PAn" x="764" y="220">0</text>
-	<text id="NYn" x="798" y="167">0</text>
-	<text id="MEn" x="884" y="74">0</text>
-	<text id="NHn" x="800" y="58" font-size="22">NH 0</text>
-	<text id="VTn" x="790" y="82" font-size="22">VT 0</text>
-	<text id="MAn" x="927" y="164" font-size="22">MA 0</text>
-	<text id="RIn" x="925" y="199" font-size="22">RI 0</text>
-	<text id="CTn" x="918" y="228" font-size="22">CT 0</text>
-	<text id="NJn" x="898" y="260" font-size="22">NJ 0</text>
-	<text id="DEn" x="891" y="284" font-size="22">DE 0</text>
-	<text id="MDn" x="883" y="305" font-size="22">MD 0</text>
-	<text id="DCn" x="864" y="327" font-size="22">DC 0</text>
-	<text id="ME-2n" x="877" y="104" font-size="25">0</text>
+	<text id="AK" x="110" y="504">0</text>
+	<text id="HI" x="261" y="565">0</text>
+	<text id="WA" x="105" y="62">0</text>
+	<text id="OR" x="88" y="136">0</text>
+	<text id="Cn" x="55" y="298">0</text>
+	<text id="NV" x="120" y="242">0</text>
+	<text id="AZ" x="182" y="368">0</text>
+	<text id="UT" x="209" y="265">0</text>
+	<text id="ID" x="183" y="162">0</text>
+	<text id="MT" x="270" y="100">0</text>
+	<text id="WY" x="290" y="191">0</text>
+	<text id="CO" x="311" y="283">0</text>
+	<text id="NM" x="290" y="381">0</text>
+	<text id="TX" x="410" y="458">0</text>
+	<text id="OK" x="451" y="370">0</text>
+	<text id="KS" x="434" y="303">0</text>
+	<text id="NE" x="411" y="232">0</text>
+	<text id="SD" x="405" y="170">0</text>
+	<text id="ND" x="405" y="103">0</text>
+	<text id="MN" x="484" y="129">0</text>
+	<text id="WI" x="561" y="163">0</text>
+	<text id="IL" x="579" y="261">0</text>
+	<text id="IA" x="513" y="224">0</text>
+	<text id="MO" x="525" y="306">0</text>
+	<text id="AR" x="534" y="384">0</text>
+	<text id="LA" x="536" y="452">0</text>
+	<text id="MS" x="587" y="428">0</text>
+	<text id="AL" x="641" y="422">0</text>
+	<text id="GA" x="697" y="419">0</text>
+	<text id="FL" x="743" y="505">0</text>
+	<text id="SC" x="745" y="380">0</text>
+	<text id="NC" x="763" y="342">0</text>
+	<text id="TN" x="633" y="353">0</text>
+	<text id="KY" x="666" y="311">0</text>
+	<text id="IN" x="630" y="262">0</text>
+	<text id="MI" x="645" y="193">0</text>
+	<text id="OH" x="685" y="248">0</text>
+	<text id="WV" x="730" y="281">0</text>
+	<text id="VA" x="767" y="294">0</text>
+	<text id="PA" x="764" y="220">0</text>
+	<text id="NY" x="798" y="167">0</text>
+	<text id="ME" x="884" y="74">0</text>
+	<text id="NH" x="800" y="58" font-size="22">NH 0</text>
+	<text id="VT" x="790" y="82" font-size="22">VT 0</text>
+	<text id="MA" x="927" y="164" font-size="22">MA 0</text>
+	<text id="RI" x="925" y="199" font-size="22">RI 0</text>
+	<text id="CT" x="918" y="228" font-size="22">CT 0</text>
+	<text id="NJ" x="898" y="260" font-size="22">NJ 0</text>
+	<text id="DE" x="891" y="284" font-size="22">DE 0</text>
+	<text id="MD" x="883" y="305" font-size="22">MD 0</text>
+	<text id="DC" x="864" y="327" font-size="22">DC 0</text>
+	<text id="ME-2" x="877" y="104" font-size="25">0</text>
 	<text id="DemL" x="855" y="425">Clinton</text>
 	<text id="RepL" x="855" y="458">Trump</text>
 </g>
 <path id="lines" d="M844,62l13,29M832,86l8,17M889,153l34,3M882,178l41,12M866,184l51 33M845,230l50,22M837,250l51,26M833,261l46,33M800,251l61,61" stroke="#000000" stroke-width="1.6"/>
 <rect id="Dem" x="828" y="406" height="19" width="19" fill="#698DC5" stroke="#000000" stroke-width="0.8"/>
-<rect id="Rep" x="828" y="439" height="19" width="19" fill="#F07763" stroke="#000000" stroke-width="0.8"/>
+<rect id="Rep" x="828" y="439" height="19" width="19" fill="#f07763" stroke="#000000" stroke-width="0.8"/>
 <path id="frames" fill="none" stroke="#A9A9A9" stroke-width="2" d="M215,493v55l36,45 M0,425h147l68,68h85l54,54v46"/>
 </svg>
