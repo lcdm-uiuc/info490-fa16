@@ -37,6 +37,6 @@ visualization known as a Chloropeth.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w14v]: https://mediaspace.illinois.edu/media/
+[w14v]: https://mediaspace.illinois.edu/media/Week+Fourteen/1_2tj3k7d7
 [w14q]: https://learn.illinois.edu/mod/quiz/
 Photo Credit: Data Processing Center.  By Harley Schwadron. From cartoonstock.com.  Accessed 3 August 2015.
