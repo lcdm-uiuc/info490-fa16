@@ -30,4 +30,4 @@ Approximately 1 hours.
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 14 Lesson 1 Assessment][w14la]
-[w14la]: https://learn.illinois.edu/mod/quiz/
+[w14la]: https://learn.illinois.edu/mod/quiz/view.php?id=1682775

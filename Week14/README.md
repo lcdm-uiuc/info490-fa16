@@ -38,5 +38,5 @@ visualization known as a Chloropeth.
 
 ----------
 [w14v]: https://mediaspace.illinois.edu/media/Week+Fourteen/1_2tj3k7d7
-[w14q]: https://learn.illinois.edu/mod/quiz/
+[w14q]: https://learn.illinois.edu/mod/quiz/view.php?id=1676861
 Photo Credit: Data Processing Center.  By Harley Schwadron. From cartoonstock.com.  Accessed 3 August 2015.
