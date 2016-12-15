@@ -252,7 +252,7 @@ are no exams in this course.
 |Lesson Assessments|60|14 (Week 15 is only 20 points)|860|
 |Weekly Quizzes|70|14 (No quiz in Week 15)|980|
 |Assignments (Weeks 2-14)|150|11 |1650|
-|***Total***|||***3680***|
+|***Total***|||***3620***|
 
 Unlike past courses, we do not plan on dropping any weekly scores. We will 
 however, drop your two lowest assignment scores, but only if you performed 
